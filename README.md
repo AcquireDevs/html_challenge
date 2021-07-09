@@ -12,7 +12,7 @@
 
 # 🚀 HTML cheatsheet
 
-```markdown
+```html
 
 <html>
 <base>
@@ -34,7 +34,7 @@
 <h5>
 <h6>
 ```
-```markdown
+```html
 <footer>
 <section>
 <nav>
@@ -53,7 +53,7 @@
 <p>
 <a>
 ```
-```markdown
+```html
 <abbr>
 <b>
 <i>
@@ -70,7 +70,7 @@
 <q>
 <ruby>
 ```
-```markdown
+```html
 <rp>
 <rt>
 <s>
@@ -89,7 +89,7 @@
 <map>
 <img>
 ```
-```markdown
+```html
 <track>
 <embed>
 <iframe>
@@ -110,7 +110,7 @@
 <td>
 <thead>
 ```
-```markdown
+```html
 <tfoot>
 <caption>
 <tbody>
@@ -124,7 +124,7 @@
 <legend>
 <label>
 ```
-```markdown
+```html
 <meter>
 <progress>
 <select>
@@ -155,4 +155,4 @@
 
 # 📃 my other projects
 
-- https://github.com/AcquireDevs/markdown-cheatsheet.git
+- https://github.com/AcquireDevs/html-cheatsheet.git
