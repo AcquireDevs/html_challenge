@@ -21,6 +21,8 @@
 <link>
 <meta>
 <style>
+```
+```html
 <body>
 <address>
 <article>
@@ -29,6 +31,8 @@
 <header>
 <h2>
 <h2>
+```
+```html
 <h3>
 <h4>
 <h5>
@@ -44,6 +48,8 @@
 <dt>
 <div>
 <figcaption>
+```
+```html
 <figure>
 <hr>
 <li>
@@ -61,6 +67,8 @@
 <bdo>
 <br>
 <cite>
+```
+```html
 <code>
 <data>
 <dfn>
@@ -82,6 +90,8 @@
 <sub>
 <time>
 <var>
+```
+```html
 <wbr>
 <area>
 <audio>
@@ -99,6 +109,8 @@
 <picture>
 <source>
 <svg>
+```
+```html
 <math>
 <canvas>
 <script>
